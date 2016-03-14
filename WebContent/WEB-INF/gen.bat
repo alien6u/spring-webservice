@@ -1,0 +1,1 @@
+wsdl2java -d F:\UnionPay\spring-webservice\src -client http://localhost:8080/spring-webservice/services/Hellows?wsdl
